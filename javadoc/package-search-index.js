@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.main.restcalculator"},{"l":"com.main.restcalculator.controller"},{"l":"com.main.restcalculator.exceptions"},{"l":"com.main.restcalculator.pojo"},{"l":"com.main.restcalculator.service"}];updateSearchResults();
