@@ -37,6 +37,7 @@ Javadoc files of the application is generated and located under javadoc folder.
 2- JAR: Additional to IntelliJ, there is a JAR file in the repository. The JAR file can be run directly with JAVA 17+. After running the JAR, the same steps to test endpoint as it is running on IntelliJ are valid. Postman or web browsers can be used with an URL. 
 
 3- Docker Build: There is a provided dockerfile in the repository. The application can be run directly with building and running the docker container. Following commands can be applied.
+
 ```docker build -t rest-calculator .```
 
 ```docker run --rm -p 8081:8081 rest-calculator .```
